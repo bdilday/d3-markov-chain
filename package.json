@@ -1,0 +1,32 @@
+{
+  "name": "d3MarkovChain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "browserify": "^13.0.0",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.2",
+    "gulp-useref": "^3.0.5",
+    "gulp-util": "^3.0.7",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "d3": "^3.5.15",
+    "d3-jetpack": "^1.0.1",
+    "del": "^2.2.0",
+    "jquery": "^2.2.0",
+    "lodash": "^4.4.0",
+    "math": "0.0.3",
+    "mathjs": "^2.7.0",
+    "require": "^2.4.20"
+  }
+}
